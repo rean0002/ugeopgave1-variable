@@ -71,4 +71,87 @@ void main() {
     score += 25;
     System.out.println(score);
 */
+
+    //Opgave 7
+/*
+    int health = 100;
+    health -= 15;
+    System.out.println(health);
+    health -=20;
+    System.out.println(health);
+*/
+    //Opgave 8
+/*
+    double price = 50.0;
+    System.out.println(price);
+    price *=2;
+    System.out.println(price);
+*/
+    //Opgave 9
+/*
+    int count = 10;
+    System.out.println(count);
+    count ++;
+    System.out.println(count);
+    count --;
+    System.out.println(count);
+*/
+    //Opgave 10
+/*
+    int number = 10;
+    number += 5;
+    System.out.println(number);
+    number -= 3;
+    System.out.println(number);
+    number ++;
+    System.out.println(number);
+    number --;
+    System.out.println(number);
+*/
+    //Opgave 11
+/*
+    String productName = "Laptop";
+    double productPrice = 7999.99;
+    boolean inStock = true;
+    int amountInStock = 15;
+    double discountRate = 10;
+    String category = "Electronics";
+*/
+    //Opgave 12
+/*
+    String studentName = "Anna";
+    int testScore = 85;
+    int assignmentScore = 92;
+    double finalGrade = 88.5;
+    boolean passedCourse = true;
+*/
+    //Opgave 13
+/*    String guestName = "Peter Hansen";
+    int roomNumber = 204;
+    int numberOfNights = 3;
+    double pricePerNight = 899.00;
+    boolean isBreakfastIncluded = true;
+    double totalCost = 2697.00;
+*/
+    //Opgave 14
+/*
+    int stepsToday = 8547;
+    int goalSteps = 10000;
+    double distanceKm = 6.2;
+    int caloriesBurned = 420;
+    boolean goalReached = true;
+ */
+    //Opgave 15
+ /*
+    String bookTitle = "Java Programming";
+    String authorName = "John Smith";
+    String isbn = "978-0-123456-78-9";
+    int numberOfPages = 456;
+    boolean isAvailable = true;
+    String currentBorrower = "";
+    String dueDate = "2026-02-01";
+    double lateReturnFine = 0.0;
+    boolean isBestselling = true;
+    double rating = 4.5;
+*/
 }
