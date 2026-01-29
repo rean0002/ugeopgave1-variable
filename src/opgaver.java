@@ -63,14 +63,12 @@ void main() {
     System.out.println(sb.toString());
 */
     //Opgave 6
-
+/*
     int score = 100;
     System.out.println(score);
     score += 50;
     System.out.println(score);
     score += 25;
     System.out.println(score);
-
-
-
+*/
 }
