@@ -1,3 +1,3 @@
 # ugeopgave1-variable
 Navn: Rebecca Andersen
-Email: rean0002@studt.ek.dk
+Email: rean0002@stud.ek.dk
